@@ -1,2 +1,15 @@
-Bofu Zou (bzou@ucsd.edu) <br>
-Section B07: Guardians 🦹‍♀️ of the Generative Realm 👾: Implementing LLM Guardrails (mentored by Nimu Sidhu, Abed El-Husseini, and Somayeh Koohbor)
+Bofu Zou (bzou@ucsd.edu) <br><br>
+
+Section B07: Guardians 🦹‍♀️ of the Generative Realm 👾: Implementing LLM Guardrails (mentored by Nimu Sidhu, Abed El-Husseini, and Somayeh Koohbor) <br><br>
+
+1. What is the most interesting topic covered in your domain this quarter? <br>
+**The most interesting topic covered this quarter was learning about guardrails for LLM, particularly through the exploration of frameworks such as Guardrails AI, NeMo, and LLM Guard. Understanding how these frameworks mitigate challenges like hallucinations, bias, and inappropriate content generation has been fascinating. Additionally, my personal projet of implementing and evaluating Google's Perspective API as a content moderation tool provided valuable insights into the practical application of guardrails within enterprise-level LLM deployments. **<br><br>
+
+2. Describe a potential investigation you would like to pursue for your Quarter 2 Project. <br>
+** For the Quarter 2 project, I would like to investigate the development of a guardrails system for a SaaS platform that processes IoT data from various sources (e.g., manual uploads or real-time streams). This system would utilize an LLM chatbot for Retrieval-Augmented Generation (RAG) to answer user questions and provide operational insights, such as detecting anomalies or identifying energy-saving opportunities. The investigation would focus on designing robust user interaction flows, implementing specific guardrails to prevent data leaks (e.g., PII, Bluetooth IPs), and ensuring safe user responses through contextual constraints and response filtering.**<br><br>
+
+3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project? <br>
+**One potential change I would make to the current Quarter 1 project is to integrate a broader set of evaluation metrics for assessing the effectiveness of Google’s Perspective API as a guardrail tool. Instead of focusing solely on accuracy and false positive rates for content moderation, I would include metrics like latency, user feedback, and context-aware adaptability. This change would allow a more holistic assessment of the guardrails, capturing not only their technical performance but also their practical usability in real-world applications. Additionally, I would explore integrating explainability mechanisms to help users understand why certain content is flagged, thereby improving transparency and trust in the system. **<br><br>
+
+4. What other techniques would you be interested in using in your project? <br>
+** **<br>For the Quarter 2 project, I would like to explore techniques that combine enterprise impact with user experience improvements. First, I would design SaaS solutions with user-friendly web interfaces to manage IoT data and interact with the LLM chatbot effectively. Second, it is important to implement topical guardrails to constrain chatbot queries to relevant data domains. Third, our team would incorporate business-oriented approaches, such as financing models and enterprise scalability. Last but not least, we would explore latency-reduction techniques to ensure a seamless user experience for real-time data processing. Additionally, I aim to integrate innovative data visualization techniques to help users interpret insights derived from the IoT data effectively.<br>
